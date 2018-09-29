@@ -27,7 +27,7 @@ Description:
 ### Examples:
 
 ```
-$ calicoctl checksystem
+$ calicoctl node checksystem
 WARNING: Unable to detect the xt_set module. Load with `modprobe xt_set`
 WARNING: Unable to detect the ipip module. Load with `modprobe ipip`
 ```
